@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0 20% 0;
+    background-color: black;
+    color: white;
+  }
+
+  h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-top: 10px;
+    border-bottom: solid white 2px;
+    padding: 8px;
+  }
+
+  aside {
+    text-align: center;
+  }
+
+  h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    border-bottom: solid white 2px;
+    padding: 8px;
+    font-size: 21px;
+  }
+
+  p {
+    margin: 5px 0;
+  }
+
+  ul li {
+    padding: 3px 0;
+  }
+
+  .section {
+    margin-bottom: 20px;
+  }
+
+  .section-title {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .experience-item {
+    margin-bottom: 10px;
+  }
+
+  .experience-item h3 {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+
+  .education-item {
+    margin-bottom: 10px;
+  }
+
+  .education-item h3 {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+
+  .skills-list {
+    margin-top: 5px;
+  }
+
+  .skills-list li {
+    margin-bottom: 5px;
+  }
+
+  .references-item {
+    margin-bottom: 10px;
+  }
+
+  .references-item h3 {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+
+  footer {
+    text-align: center;
+    padding-top: 20px;
+  }
